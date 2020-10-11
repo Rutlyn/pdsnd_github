@@ -15,4 +15,4 @@ bikeshare.py
 
 ### Credits
 Udacity Nanodegree mentors for python lesson.
-Beni
+Ruth
